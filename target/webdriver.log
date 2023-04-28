@@ -1,0 +1,13 @@
+INFO 21:08:51:254 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 21:08:51:299 wdm.WebDriverManager getDriversFromXml:1077 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 21:08:53:121 wdm.Downloader downloadAndExtract:128 Downloading https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+INFO 21:08:53:832 wdm.Downloader extract:183 Extracting binary from compressed file chromedriver_win32.zip
+INFO 21:08:54:125 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\swett\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 21:09:12:994 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 21:09:13:062 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\swett\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 21:09:13:885 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 21:09:13:928 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\swett\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 21:10:39:605 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 21:10:39:637 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\swett\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 21:19:12:668 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 21:19:12:699 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\swett\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
